@@ -142239,12 +142239,12 @@ Regardless of charge_type, then base_amount = units * rate prior to any adjustme
     skos:hiddenLabel "CYBR" .
 
 <RCgMu5ynvcgBz5w6ozBAgRO> a owl:Class ;
-    rdfs:label "Canon Law" ;
+    rdfs:label "Canon Law (Catholic Church)"@en ;
+    rdfs:subClassOf :RBkzNeCV70lWNDKaIVq358i ;
+    skos:definition "Canon Law is the body of laws and regulations developed by the Catholic Church for its own governance." ;
     rdfs:subClassOf [ a owl:Restriction ;
             owl:onProperty rdfs:seeAlso ;
-            owl:someValuesFrom <R9PyPzEUehPGahqJymgzEgR> ],
-        <RBkzNeCV70lWNDKaIVq358i> ;
-    skos:definition "Canon Law is the body of laws and regulations developed by the Catholic Church for its own governance." .
+            owl:someValuesFrom <R9PyPzEUehPGahqJymgzEgR> ] .
 
 <RCgTDM8gLXmYS83lryg8xV0> a owl:Class ;
     rdfs:label "No Third Party Beneficiary Rights Clause" ;
