@@ -1,3 +1,6 @@
+> [!WARNING]
+> **OntoKit demo copy, not the official ontology.** This repository receives edits approved on the OntoKit demo site. Its commits are demo suggestions, never official FOLIO changes. The official ontology lives at [alea-institute/FOLIO](https://github.com/alea-institute/FOLIO).
+
 # FOLIO - The Federated Open Legal Information Ontology
 
 ![FOLIO Logo](https://discourse.openlegalstandard.org/uploads/default/original/1X/ceb45b9ec0ef6f67cc516f9d5e30e9f6527eab44.png)
